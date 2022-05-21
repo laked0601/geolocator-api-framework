@@ -1,0 +1,13 @@
+{
+    "APIKEY":"{YOUR API KEY HERE}",
+    "MAX_REQUESTS":2,
+    "FIND_BULK_IPS":{
+        "FILEPATH":"sample_ips.txt",
+        "REPEAT":1,
+        "OUTPUTFILE":"DATA/test.txt"
+    },
+    "LOOKUP_IP":{
+        "IP":"1.1.1.1",
+        "REPEAT":1
+    }
+}

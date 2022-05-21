@@ -1,0 +1,1 @@
+{"message":"Bulk IP to geolocation lookup is not supported on your free subscription. This feature is available to all paid subscriptions only."}
